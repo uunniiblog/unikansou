@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+        footer { grid-area: 3 / 2 / 4 / 3; }
+
+        .container {
+            display: grid;
+            grid-template-columns: 0.8fr 1.1fr 1.2fr;
+            grid-template-rows: 1fr 1.5fr 0.5fr;
+            gap: 0px 0px;
+            grid-auto-flow: row;
+        }
+
+        .sidebar {
+            grid-area: 1 / 1 / 4 / 2;
+            color: #ff706c;
+            font-weight: 700;
+            margin-top: 20%;
+        }
+
+        .main {
+            grid-area: 1 / 2 / 4 / 3;
+            background-color: #fff;
+            padding-bottom: 500px;
+        }
+
+        .footer {
+            grid-area: 3 / 2 / 4 / 3;
+            min-height: 20px;
+        }
+
+        a:link, a:visited {
+            text-decoration: none;
+        }
+        a:hover, a:active {
+            text-decoration: underline;
+        }
+
+
+        .sidebar a {
+            display: block;
+            color: #ff706c;
+            font-weight: 700;
+            margin-left: 500px;
+            margin-bottom: .4em;
+        }
+
+        .sidebar a:hover, .sidebar p:hover {
+            color: #f1f1f1;
+            text-decoration: underline;
+        }
+
+        html, body , .container {
+            height: 100%;
+            margin: 0;
+            background-color: #353e49;
+        }
+
+        .posts a, .posts p {
+            color: #ff706c;
+            font-weight: 700;
+            display: block;
+            margin: 5px;
+            margin-left: 5%;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <a href="./index.html">Home</a>
+        <a href="https://twitter.com/uunnii5" target="_blank">Twitter</a>
+        <a href="https://vndb.org/u44234/ulist?votes=1" target="_blank">VNDB</a>
+        <a href="https://bookmeter.com/users/783941" target="_blank">Bookmeter</a>
+      </div>
+      <div class="main">
+        <h2 style="margin-left: 3%;">Posts</h2>
+        <h4 style="margin-left: 3%;">Visual Novels</h4>
+        <div class="posts">
+            <a href="./posts/sasasagu.html">Saiaku Naru Saiyaku Ningen ni Sasagu</a>
+            <a href="./posts/oreten.html">Ore-tachi ga Shinda Natsu, Tenshi no Ita Mikkakan</a>
+            <a href="./posts/また逢うたな.html">Kusarihime</a>
+            <a href="./posts/hateao.html">Hateshinaku Aoi, Kono Sora no Shita de…</a>
+            <a href="./posts/realizeme.html">Realize Me</a>
+        </div>
+        <h4 style="margin-left: 3%;">Books</h4>
+        <div class="posts">
+            <a href="./posts/サトーさんサトーさんサトーさん.html">Infinity Zero</a>
+            <a href="./posts/sugardark.html">Sugar Dark</a>
+            <a href="./posts/tabinideyou.html">Tabi ni Deyou</a>
+            <a href="./posts/penguinhighway.html">Penguin Highway</a>
+            <a href="./posts/胡蝶の夢.html">Psyche</a>
+            <a href="./posts/fatalsis.html">Hatenaki Ten no Fatalsis</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
