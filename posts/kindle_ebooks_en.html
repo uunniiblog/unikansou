@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Ebooks Kindle</title>
+    <link rel="stylesheet" href="../css/structure.css">
+    <link rel="stylesheet" href="../css/sidebar.css">
+    <link rel="stylesheet" href="../css/images.css">
+    <link rel="stylesheet" href="../css/text_options.css">
+    <style>
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <a href="../index.html">Home</a>
+        <a href="https://twitter.com/uunnii5" target="_blank">Twitter</a>
+        <a href="https://vndb.org/u44234/ulist?votes=1" target="_blank">VNDB</a>
+        <a href="https://bookmeter.com/users/783941" target="_blank">Bookmeter</a>
+      </div>
+      <div class="main">
+
+        <h1>Ebooks Kindle</h1>
+        <figcaption>19 May, 2022</figcaption> <br/>
+
+       <p>
+       Kindle is ideal for people starting to read books in Japanese since it makes the process of looking for words much faster at least compared to physical books where you either have to radical search kanji or use OCR which is far from ideal. But there are some obstacles and variables when it comes to buying ebooks from Amazon.jp which are interesting to know. With this post I intend to explain how to make this process easier and hopefully to keep it updated in the future.
+       </p>
+
+       <h3 style="margin-left:5%;"> Contents </h3>
+
+       <ol>
+       <li> How to buy ebooks in Amazon </li>
+       <li> Remove DRM </li>
+       <li> High Quality Pictures </li>
+       <li> Kindle Dictionaries </li>
+       </ol>
+       
+       <h2>1. How to buy ebooks in Amazon </h2>
+       <p>
+         The first thing that you need is an account in Amazon.jp. The interface can abe set to English to make the process easier. What's important here is to make sure that you use a different email address that you are using for any other Amazon account, otherwise it is possible that it will give you some trouble when registering the account in the Kindle device since it will default to logging to your English account. If this happens the solution is to change the device language to Japanese so it will default your Amazon.jp account instead, but given the possibility it is better to just use a different email.
+       </p>
+       <p>
+       Once you have your account ready the next step is trying to buy a book, you can get a free one like https://www.amazon.co.jp/太宰-治-ebook/dp/B009IX8LLK to test it out. <br/>
+       Probably you will get a message saying you can't buy it due to geographical restrictions. For some reason Amazon.jp blocks people outside of Japan from buying ebooks, I imagine it is probably some license stuff, this block is IP based so the only real way to bypass it is with a VPN, there are a few free choices like TunnelBear or ProtonVPN that offer a Japanese one for free, if you don't want to install anything it is also possible to use a some website that offers a web proxy tunnel through, although I don't really trust them to be very safe so if you choose to use this I'd recommend changing your Amazon password after. <br/>
+       From what I've tested this block is only IP based so a VPN is all you should need, but I have heard of other people that also needed to set their account address to a Japanese one, if that's the case you can obtain one from a forwarded like Tenso or just google up some Japanese hotel or something and use it. <br/>
+       Once you have your VPN ready try again to buy a free book, it should complete now. Once a purchase has been made the account will be flagged so it won't be needed to use a VPN for the next purchases. <br/>
+       Occasionally it is possible that this flag will be resetted and you need to use a VPN to enable it again, I have had this happen randomly after changing the main address in the account.
+       </p>
+       <p>
+       Once the book is purchased, there are several ways to transfer it to the Kindle. The easiest one is logging your Amazon.jp account in the device and enable wifi to automatically download it. Other option is to go to "Content and Devices" and in the book click "Download & transfer via USB", then transfer manually the book through USB, with this you can start reading it without more complications.
+       </p>
+        <img style="margin-left: 10%;" src="../img/kindle ebooks/1.png">
+        <img style="margin-left: 10%;" src="../img/kindle ebooks/2.png">
+        <p>
+        There are two problems with this though: <br/>
+        </p>
+
+        <ul>
+        <li>
+        The first one is DRM, even downloading the file it will only be possible to open it with the Kindle registered in the account that you select to sent to, if for some reason you lose your account, Amazon decides to ban your account for doing the VPN bypass stuff (I heard of one person having his entire collection randomly removed for thins reason years ago), or even if unlikely Amazon goes out of business in say 20 years. You will lose the ability to read your books. Maybe I'm over paranoid but I like to keep a DRM free of the stuff I buy.
+        </li>
+        <li>
+        The second one is that Amazon chooses the quality of the pictures in the ebooks according to the device you are reading it, and for Kindle this one is kind of low. In a Kindle you won't really notice the difference too much, but if you were to open it on a tablet or pc with high resolution the pictures are going to be blurry. For normal novels without pictures it doesn't matter, but for LNs with pictures they do get shafted, especially the first ones at the start that are bigger. I haven't test out much with manga but I imagine it is also especially bad here. <br/>
+        Here a comparison image between the low res from Kindle and the higher one that Amazon offers https://imgur.com/a/jI6cdU4
+        </li>
+        </ul>
+
+        <p>
+        The combination of this too factors make it hard to store a copy of your ebooks with the best quality available.
+        </p>
+
+        <h2>2. Kindle DRM</h2>
+        <p>
+        There are several ways to remove DRM, one of them is with the desktop application "Kindle for PC", the other one is when using the option to "Download & Transfer via USB". <br/>
+        The easiest way is with the desktop application, which also opens the possibility of obtaining the pictures with the biggest resolution available.
+        </p>
+        <p>
+        It is needed to install the application "Kindle for PC", and it also has to be between version 1.19 and 1.29. Unfortunately Amazon doesn't offer downloads for older versions but I have uploaded version 1.28 in archive.org here https://archive.org/details/kindle-for-pc-installer-1.28.57030 <br/>
+        You can also easily google and get it from a few other sites, just beware of sketchy adware installers. <br/>
+        Once you open it the first thing you need to do is disable automatic updates, there is a chance that even before you disable it already downloads a newer version and installs it, if this happens uninstall it and install it again. The options are saved so it shouldn't happen a second time. <br/>
+        Next is to register your account and double click the book so it downloads and opens it. Once open everything is ready and you can close the application. The books are saved in a folder called "My Kindle Content" in your user's document, you can get through it with this route in the explorer "%HOMEPATH%\Documents\My Kindle Content".
+        </p>
+        <p>
+         To remove the DRM, it is needed to install Calibre and a plugin called DeDRM. Calibre is a pretty useful app to sort ebooks, it allows to easily do conversion between formats and easily transfer to Kindle. When the plugin is installed all the books you import to Calibre will have DRM automatically removed.
+        </p>
+       <p>
+         Calibre can be downloaded here: https://calibre-ebook.com/download  <br/>
+         DeDRM plugin here: https://github.com/noDRM/DeDRM_tools <br/>
+       </p>
+       <p>
+         After opening Calibre make sure to choose Tablet if the option is given, to ensure that no image redimensioning is done
+       </p>
+       <img class="img169" src="../img/kindle ebooks/3.png">
+       <p>
+       To install the plugin all you need to do is go to Options/preferences, all the way down go to plugins and load the DeDRM zip file. Restart calibre and try to import some .azw file from "My Kindle Content", after importing it click it to open, if it lets you then the DRM is gone! otherwise it won't let you open it. <br/>
+       To make a copy of the file without DRM select the book in Calibre and to the right on Path -> Click to open, will open in the explorer where you can copy the .azw3 file anywhere. Calibre is really bad at handling Japanese names so you will have to rename the file though.
+       </p>
+       <img class="img169" src="../img/kindle ebooks/4.png">
+        <p>
+        To remove the DRM when downloading it through the "Download & Transfer via USB" option it is needed to go to the plugin options in Calibre and add the serial number from your Kindle device. The serial can be found in the device options in the Kindle. Although I don't really recommend doing this method at least for books with pictures since the resolution will be very low.
+        </p>
+        <img class="img169" src="../img/kindle ebooks/8.png">
+        <img style="margin-left: 30%;" src="../img/kindle ebooks/9.png">
+       <p>
+       The process to obtain the high res pictures will also remove the DRM so this plugin isn't all so needed if you are going to also make that process, but that one is a bit more elaborate and it is only needed for books with pics, so it doesn't hurt to have the plugin installed for all other cases.
+       </p>
+
+       <h2>3. High Quality Pictures</h2>
+       <p>
+       Amazon encrypts the higher quality pictures in a file with extension ".res", the desktop application uses this files to display the high res pics, but the azw file itself you import to Calibre only has the low quality pics.
+       </p>
+       <img class="img169" src="../img/kindle ebooks/5.png">
+       <p>
+       Calibre right now doesn't have a way to decrypt this .res file, but there is a different software called UnpackKindleS https://github.com/Aeroblast/UnpackKindleS that can do it. <br/>
+       The readme with the instructions on how to use is in Chinese but it is easy to use, download it from releases and you will see several .bat files, each of them start a process according to their name.
+       </p>
+       <p>
+       To convert a single book you can use either _Tool_Drop_Single y _Tool_Drop_Single_dedrm (from what I've tested both of them also create a no DRM version anyway so there is no difference?). To use it you need to drag the .azw file downloaded from the desktop Kindle application in the "My Kindle Content" folder into the .bat file. It will create both a .azw3 copy without DRM, and a .epub version also without DRM but that also contains the high resolution pictures. The files will be in the same folder than the original file you dragged.
+       </p>
+       <p>
+       The .bat "_Tool_Proc_MyKindleContent" will create the .epub copy with the high res pics for all the books you have downloaded in the "My Kindle Content" folder, this time all the files will be stored in the UnpackKindleS folder, the same one with the .bat files.
+       </p>
+       <p>
+       The .bat "_Tool_Drop_Dump_azwres.bat" only extracts the pics in high res without doing any ebook conversion. In this case you need to drag the .res file instead of the azw.
+       </p>
+      <img class="img169" src="../img/kindle ebooks/6.png">
+      <p>
+      The epub format is not proprietary unlike azw which is exclusively used from Amazon so it is better way to store it for futureproof. However Kindle devices can't read epubs by default, so to use your book with the high res pics you will need to import the epub into calibre and convert it to a Kindle friendly format like azw3 (make sure that the output device is Tablet so it doesn't reduce the quality of the pics). <br/>
+      Honestly I wouldn't go out of my way to use this high quality epub in your Kindle since there is barely any difference since Kindle screen isn't that big. <br/>
+      To check if the epub file is correct, or to read it in your browser instead with a mouseover extension like Nazeka you can use this website https://ttu-ebook.web.app/manage.
+      </p>
+
+      <h2>4. Kindle Dictionaries</h2>
+       <p>
+       Once you start reading in your Kindle you will soon realize the default Japanese to English dictionary is pretty lacking. Luckily there are better alternatives like the famous jmdict, here is a Kindle version of it: https://github.com/jmdict-kindle/jmdict-kindle <br/>
+       You will want to install the "jmdict.mobi" which is the normal dictionary with example sentences which are very helpful sometimes. <br/>
+       "jmnedict.mobi" is for name of persons and places, it is useful when you want to know the reading of them but LNs usually have furigana for them so if that's all you read you can probably skip it.
+       </p>
+      <p>
+      jmdict has improved a lot in recent years and is more up to date but I will also recommend grabbing some epwing dictionaries, Kenkyusha is a very good alternative for J->E. There are also some J->J dictionaries which are also good to have, I am not entirely sure which one is the best one but Daijirin is pretty famous so it's a safe pick. <br/>
+      Here is a website that converted this epwing dictionaries to make them compatible with Kindle: https://anacreondjt.gitlab.io/docs/dicts/#kindle-version-utilization <br/>
+      To install them all you need to do is download the .mobi version of the dictionary and save them in the documents/dictionaries folder in your kindle device. In your device options in language and dictionaries menu you can check all the ones you have installed and choose the default one.
+      </p>
+      <p>
+        <img class="img169" src="../img/kindle ebooks/7.png">
+      <p>
+      Hope this guide has cleared out how to get the most of your Kindle books. Unfortunately there isn't any site I know that sells Japanese ebooks without DRM. Amazon.jp isn't really the best option to buy since it has some difficulties and the point system isn't as generous as other sites, but at least it is possible to get through hiccups and get clean DRM free copy of the books. If there was a way to remove the DRM from Bookwalker to import the books in Kindle it probably would be a better choice but as of right now there isn't a way to do it. There is Kobo where you can also remove DRM but maybe I'll make a post about it at some point in the future.
+      </p>
+
+      </div>
+      <div class="footer"></div>
+      <div class="div4"> </div>
+    </div>
+  </body>
+</html>
+
