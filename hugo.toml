@@ -1,4 +1,4 @@
-baseURL = 'https://uunniiblog.github.io/hugo-test/'
+baseURL = 'https://uunniiblog.github.io/unikansou/'
 #baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'Unikansou'

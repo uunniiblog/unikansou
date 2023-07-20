@@ -16,11 +16,11 @@ Label: 星海社FICTIONS* <br/>
 
 </center>
 
-It's a republished book from the defunct Fujimi Mystery Bunko label, Seikaisha has made a really nice version with nice color illustration and great presentation (as usual from Seikaisha). A good thing because the old version was considering as some sort of yuri classic but the only way to obtain was to pay 6k yen plus in the secondhand market.
+It's a republished book from the defunct Fujimi Mystery Bunko label, Seikaisha has made a really nice version with beautiful color illustration and great presentation (as usual from Seikaisha). A good thing because the old version was considering as some sort of yuri classic but the only way to obtain was to pay 6k yen plus in the secondhand market.
 
 <!--more-->
 
-It's a seishun girl meets girl mystery in a summer inaka setting where the protagonist Misachi wants to kill herself, but the day she decides go to the rails and do it she finds out it has been abandoned and then meets up with Rigaya randomly, an older girl with a weird vibes that used to live in this town. Rigaya wants to resurrect this ghost railway so she convinces Misachi to help her, she agrees with the condition that this railway will kill her when it's finished.
+It's a seishun girl meets girl mystery in a summer inaka setting where the protagonist Misachi wants to kill herself, but she finds out the day she finally decides to do it that the train rails have been abandoned, there she randomly meets with Rigaya; a girl that's a couple years older with a weird vibes that used to live in this town. She is some sort of mysterious artist has come back because she wants to resurrect this ghost railway, Misachi agrees to help her with the condition that this railway will kill her when it's finished.
 
 The novel lives and dies by it's atmosphere, it nails the old 00s nostalgic feeling with the summer setting and the two main character relationship, it has a nice resolution with the mystery of Rigaya's intentions that it's coupled with pretty strong ending.
 But at the same time it also feels like its too light and abrupt with it's text to the point it kind of downplays it's own impact, it has some serious interesting themes dealing with death, suicide, guilt (and it seems to be written with the motif of the movie Dancer in the Dark in mind, which I haven't seen so I can't comment much there) but at the end I feel like it doesn't really have much of a long lasting impression because how quick it gets to the climax. The writer mentions in the new atogaki he had to do some deep rewriting and trimming from the initial draft to get it published in a single bunko back in the day so I'd bet this is probably the reason it feels kind of rushed.
