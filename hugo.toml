@@ -1,5 +1,5 @@
-#baseURL = 'https://uunniiblog.github.io/hugo-test/'
-baseURL = 'http://localhost:1313'
+baseURL = 'https://uunniiblog.github.io/hugo-test/'
+#baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'Unikansou'
 theme = 'poison'
