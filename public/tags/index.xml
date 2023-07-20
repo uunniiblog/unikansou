@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Unikansou</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Unikansou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jul 2023 00:36:42 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>books</title>
+      <link>http://localhost:1313/tags/books/</link>
+      <pubDate>Thu, 20 Jul 2023 00:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seikaisha</title>
+      <link>http://localhost:1313/tags/seikaisha/</link>
+      <pubDate>Thu, 20 Jul 2023 00:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/seikaisha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dengeki</title>
+      <link>http://localhost:1313/tags/dengeki/</link>
+      <pubDate>Thu, 20 Apr 2023 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/dengeki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doujin</title>
+      <link>http://localhost:1313/tags/doujin/</link>
+      <pubDate>Tue, 14 Jun 2022 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/doujin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vns</title>
+      <link>http://localhost:1313/tags/vns/</link>
+      <pubDate>Tue, 14 Jun 2022 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/vns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liarsoft</title>
+      <link>http://localhost:1313/tags/liarsoft/</link>
+      <pubDate>Sun, 13 Mar 2022 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/liarsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mink</title>
+      <link>http://localhost:1313/tags/mink/</link>
+      <pubDate>Sat, 16 Oct 2021 20:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/mink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>topcat</title>
+      <link>http://localhost:1313/tags/topcat/</link>
+      <pubDate>Sat, 03 Oct 2020 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/topcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kadokawa Sneaker</title>
+      <link>http://localhost:1313/tags/kadokawa-sneaker/</link>
+      <pubDate>Sun, 11 Aug 2019 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/kadokawa-sneaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kemco</title>
+      <link>http://localhost:1313/tags/kemco/</link>
+      <pubDate>Thu, 11 Jul 2019 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/kemco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Phoenix</title>
+      <link>http://localhost:1313/tags/water-phoenix/</link>
+      <pubDate>Thu, 11 Jul 2019 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/water-phoenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kadokawa Bunko</title>
+      <link>http://localhost:1313/tags/kadokawa-bunko/</link>
+      <pubDate>Thu, 27 Dec 2018 23:36:42 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/kadokawa-bunko/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
