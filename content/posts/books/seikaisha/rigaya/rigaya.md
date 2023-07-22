@@ -4,8 +4,6 @@ date: 2023-07-20T00:36:42+02:00
 draft: false
 tags: ["books","seikaisha"]
 description: Seikaisha newest yuri book
-images:
-- /rigaya/rigaya1.jpg
 title: Yuurei Ressha to Konpeitou - 幽霊列車とこんぺい糖
 ---
 
