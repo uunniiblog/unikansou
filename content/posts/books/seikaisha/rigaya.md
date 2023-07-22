@@ -10,7 +10,7 @@ params:
 
 description: Seikaisha newest yuri book
 images:
-- /images/rigaya/rigaya1.jpg
+- /rigaya/rigaya1.jpg
 title: Yuurei Ressha to Konpeitou - 幽霊列車とこんぺい糖
 ---
 
