@@ -3,7 +3,10 @@ title: "Yuurei Ressha to Konpeitou - 幽霊列車とこんぺい糖"
 date: 2023-07-20T00:36:42+02:00
 draft: false
 tags: ["books","seikaisha"]
-
+params:
+    description: test
+    images:
+    - /images/rigaya/rigaya1.jpg
 ---
 
 <center>
