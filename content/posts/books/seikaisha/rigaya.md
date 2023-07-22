@@ -4,7 +4,7 @@ date: 2023-07-20T00:36:42+02:00
 draft: false
 tags: ["books","seikaisha"]
 description: Seikaisha newest yuri book
-images: "rigaya/rigaya1.jpg"
+images: "https://uunniiblog.github.io/unikansou/images/rigaya/rigaya1.jpg"
 ---
 
 <center>
