@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Unikansou</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://uunniiblog.github.io/unikansou/about/</link>
     <description>Recent content in About on Unikansou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 16:57:05 +0200</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 16:57:05 +0200</lastBuildDate><atom:link href="https://uunniiblog.github.io/unikansou/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/about/</link>
+      <link>https://uunniiblog.github.io/unikansou/about/about/</link>
       <pubDate>Wed, 19 Jul 2023 16:57:05 +0200</pubDate>
       
-      <guid>http://localhost:1313/about/about/</guid>
+      <guid>https://uunniiblog.github.io/unikansou/about/about/</guid>
       <description> Dumping random thoughts about Japanese books and visual novels
 twitter: https://twitter.com/uunnii5 vndb: https://vndb.org/u44234/ulist?votes=1 bookmeter: https://bookmeter.com/users/783941 </description>
     </item>
