@@ -2,7 +2,7 @@
 title: "Ihanashi no Majo - イハナシの魔女"
 date: 2023-08-20T00:36:42+02:00
 draft: false
-tags: ["vn","fragaria"]
+tags: ["vns","fragaria"]
 
 ---
 

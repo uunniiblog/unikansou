@@ -2,7 +2,7 @@
 title: "Akai Ito - アカイイト"
 date: 2023-08-16T00:36:42+02:00
 draft: false
-tags: ["vn","success"]
+tags: ["vns","success"]
 
 ---
 
