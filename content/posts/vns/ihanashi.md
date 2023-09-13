@@ -2,7 +2,7 @@
 title: "Ihanashi no Majo - イハナシの魔女"
 date: 2023-08-20T00:36:42+02:00
 draft: false
-tags: ["vns","fragaria"]
+tags: ["vns","fragaria", "doujin"]
 
 ---
 
@@ -18,7 +18,7 @@ vndb: https://vndb.org/v32758*
 
 This doujin VN has been moving some sort of waves since it was released last year at summer comiket, it's been pretty popular around Japanese circle and it's already officially translated to Chinese and Korean and I kinda expect an English TL soon too, wouldn't be suprised. When Kemco announced their console port I got curious since they don't really do ports of other games. I Grabbed it without knowing what to expect but to my surprise it was totally my kind of shit since it's some ボーイミーツガール セカイ系ish with a lot of supernatural 伝奇 SF stuff.
 
-The plot follows Hikaru as the protagonist that until now his live has been some kind of hell with his parents dying when he was 5, been bullied in school and by his aunt too until one day she ditches him sending him to a small island in Okinawa with his grandfather who has been missing for god knows when. He finds himself homeless in the island and meets with a cold enigmatic girl called Lilun in similar circustances, He tries to get closer to her to survive and soon enough he discovers she is a real witch that comes from a different world that can use magic. From there they start living together trying to discover the secrets of this magic and its link with the past of this island.
+The plot follows Hikaru as the protagonist that until now his live has been some kind of hell with his parents dying when he was 5, been bullied in school and by his aunt too until one day she ditches him sending him to a small island in Okinawa with his grandfather who has been missing for god knows when. He finds himself homeless in the island and meets with a cold enigmatic girl called Lilun in similar circumstances, He tries to get closer to her to survive and soon enough he discovers she is a real witch that comes from a different world that can use magic. From there they start living together trying to discover the secrets of this magic and its link with the past of this island.
 
 <!--more-->
 
