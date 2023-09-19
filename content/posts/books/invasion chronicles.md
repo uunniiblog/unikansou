@@ -11,7 +11,7 @@ tags: ["books"]
 <img src="/images/invasionchronicle/0.jpg" width="70%"/>
 
 *Title: 海辺の病院で彼女と話した幾つかのこと <br/>
-Author: 石川 博品 <br/>
+Author: 石川 博品 <br/>*
 
 </center>
 
