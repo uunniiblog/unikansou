@@ -2,129 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/books/</loc>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2024-03-07T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dengeki/</loc>
+    <lastmod>2024-03-07T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/books/dengeki/houkagogakari/</loc>
+    <lastmod>2024-03-07T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-07T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-07T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-07T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vns/schizogaslightingimoutorenaiadv/</loc>
+    <lastmod>2024-01-21T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vns/</loc>
+    <lastmod>2024-01-21T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/waffle/</loc>
+    <lastmod>2024-01-21T00:36:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/books/invasion-chronicles/</loc>
     <lastmod>2023-09-19T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/</loc>
-    <lastmod>2023-09-19T00:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/</loc>
-    <lastmod>2023-09-19T00:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/invasion-chronicles/</loc>
-    <lastmod>2023-09-19T00:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/</loc>
-    <lastmod>2023-09-19T00:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/doujin/</loc>
+    <loc>http://localhost:1313/tags/doujin/</loc>
     <lastmod>2023-09-13T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/memento_memoria/</loc>
+    <loc>http://localhost:1313/posts/vns/memento_memoria/</loc>
     <lastmod>2023-09-13T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/vns/</loc>
-    <lastmod>2023-09-13T00:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/fragaria/</loc>
+    <loc>http://localhost:1313/tags/fragaria/</loc>
     <lastmod>2023-08-20T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/ihanashi/</loc>
+    <loc>http://localhost:1313/posts/vns/ihanashi/</loc>
     <lastmod>2023-08-20T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/akaiito/</loc>
+    <loc>http://localhost:1313/posts/vns/akaiito/</loc>
     <lastmod>2023-08-16T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/success/</loc>
+    <loc>http://localhost:1313/tags/success/</loc>
     <lastmod>2023-08-16T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/crymachina/</loc>
+    <loc>http://localhost:1313/posts/vns/crymachina/</loc>
     <lastmod>2023-08-15T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/furyu/</loc>
+    <loc>http://localhost:1313/tags/furyu/</loc>
     <lastmod>2023-08-15T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/jrpg/</loc>
+    <loc>http://localhost:1313/tags/jrpg/</loc>
     <lastmod>2023-08-15T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/seikaisha/</loc>
+    <loc>http://localhost:1313/tags/seikaisha/</loc>
     <lastmod>2023-07-20T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/seikaisha/rigaya/</loc>
+    <loc>http://localhost:1313/posts/books/seikaisha/rigaya/</loc>
     <lastmod>2023-07-20T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-07-19T16:57:05+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2023-07-19T16:57:05+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/dengeki/crisscross/</loc>
+    <loc>http://localhost:1313/posts/books/dengeki/crisscross/</loc>
     <lastmod>2023-04-20T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/dengeki/</loc>
-    <lastmod>2023-04-20T23:36:42+02:00</lastmod>
-  </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/%E8%90%BD%E6%97%A5/</loc>
+    <loc>http://localhost:1313/posts/vns/%E8%90%BD%E6%97%A5/</loc>
     <lastmod>2022-06-14T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/dengeki/kurogane/</loc>
+    <loc>http://localhost:1313/posts/books/dengeki/kurogane/</loc>
     <lastmod>2022-04-27T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/dengeki/%E3%82%B5%E3%83%88%E3%83%BC%E3%81%95%E3%82%93%E3%82%B5%E3%83%88%E3%83%BC%E3%81%95%E3%82%93%E3%82%B5%E3%83%88%E3%83%BC%E3%81%95%E3%82%93/</loc>
+    <loc>http://localhost:1313/posts/books/dengeki/%E3%82%B5%E3%83%88%E3%83%BC%E3%81%95%E3%82%93%E3%82%B5%E3%83%88%E3%83%BC%E3%81%95%E3%82%93%E3%82%B5%E3%83%88%E3%83%BC%E3%81%95%E3%82%93/</loc>
     <lastmod>2022-04-10T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/%E3%81%BE%E3%81%9F%E9%80%A2%E3%81%86%E3%81%9F%E3%81%AA/</loc>
+    <loc>http://localhost:1313/posts/vns/%E3%81%BE%E3%81%9F%E9%80%A2%E3%81%86%E3%81%9F%E3%81%AA/</loc>
     <lastmod>2022-03-13T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/liarsoft/</loc>
+    <loc>http://localhost:1313/tags/liarsoft/</loc>
     <lastmod>2022-03-13T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/seikaisha/fatalsis/</loc>
+    <loc>http://localhost:1313/posts/books/seikaisha/fatalsis/</loc>
     <lastmod>2022-02-11T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/seikaisha/%E8%83%A1%E8%9D%B6%E3%81%AE%E5%A4%A2/</loc>
+    <loc>http://localhost:1313/posts/books/seikaisha/%E8%83%A1%E8%9D%B6%E3%81%AE%E5%A4%A2/</loc>
     <lastmod>2022-01-07T00:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/mink/</loc>
+    <loc>http://localhost:1313/tags/mink/</loc>
     <lastmod>2021-10-16T20:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/realizeme/</loc>
+    <loc>http://localhost:1313/posts/vns/realizeme/</loc>
     <lastmod>2021-10-16T20:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/hateao/</loc>
+    <loc>http://localhost:1313/posts/vns/hateao/</loc>
     <lastmod>2020-10-03T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/topcat/</loc>
+    <loc>http://localhost:1313/tags/topcat/</loc>
     <lastmod>2020-10-03T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/kadokawa-sneaker/</loc>
+    <loc>http://localhost:1313/tags/kadokawa-sneaker/</loc>
     <lastmod>2019-08-11T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/sugardark/</loc>
+    <loc>http://localhost:1313/posts/books/%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/sugardark/</loc>
     <lastmod>2019-08-11T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/dengeki/tabinideyou/</loc>
+    <loc>http://localhost:1313/posts/books/dengeki/tabinideyou/</loc>
     <lastmod>2019-08-11T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/kemco/</loc>
+    <loc>http://localhost:1313/tags/kemco/</loc>
     <lastmod>2019-07-11T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/sasasagu/</loc>
+    <loc>http://localhost:1313/posts/vns/sasasagu/</loc>
     <lastmod>2019-07-11T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/water-phoenix/</loc>
+    <loc>http://localhost:1313/tags/water-phoenix/</loc>
     <lastmod>2019-07-11T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/vns/oreten/</loc>
+    <loc>http://localhost:1313/posts/vns/oreten/</loc>
     <lastmod>2019-04-04T20:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/tags/kadokawa-bunko/</loc>
+    <loc>http://localhost:1313/tags/kadokawa-bunko/</loc>
     <lastmod>2018-12-27T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/posts/books/%E8%A7%92%E5%B7%9D/penguin/</loc>
+    <loc>http://localhost:1313/posts/books/%E8%A7%92%E5%B7%9D/penguin/</loc>
     <lastmod>2018-12-27T23:36:42+02:00</lastmod>
   </url><url>
-    <loc>https://uunniiblog.github.io/unikansou/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

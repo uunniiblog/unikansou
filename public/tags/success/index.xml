@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>success on Unikansou</title>
-    <link>https://uunniiblog.github.io/unikansou/tags/success/</link>
-    <description>Recent content in success on Unikansou</description>
+    <title>Success on Unikansou</title>
+    <link>http://localhost:1313/tags/success/</link>
+    <description>Recent content in Success on Unikansou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Aug 2023 00:36:42 +0200</lastBuildDate>
-    <atom:link href="https://uunniiblog.github.io/unikansou/tags/success/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/success/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akai Ito - アカイイト</title>
-      <link>https://uunniiblog.github.io/unikansou/posts/vns/akaiito/</link>
+      <link>http://localhost:1313/posts/vns/akaiito/</link>
       <pubDate>Wed, 16 Aug 2023 00:36:42 +0200</pubDate>
-      <guid>https://uunniiblog.github.io/unikansou/posts/vns/akaiito/</guid>
-      <description>&lt;center&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/_HWJykrNDvE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;Title: アカイイト&lt;br/&gt;
-Developer: Success&lt;br/&gt;
-vndb: &lt;a href=&#34;https://vndb.org/v98&#34; target=&#34;_blank&#34;&gt;https://vndb.org/v98&lt;/a&gt;
-&lt;/em&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;Akai ito is one of the most famous yuri VN released in the 00s, probably due to shortage more than anything, but also has some fame by its high quality writing and elaborated 伝奇 setting.
-I went in and grabbed it when the PC port on Steam released a few months ago since I had it on my backlog since forever ago, but since it was PS2 exclusive having to emulate it and stuff pushed it to the bottom of the list. It&amp;rsquo;s nice they took the chance to bring it to modern platforms and for a cheap price made me jump on the bandwagon on release, the port is very basic though so don&amp;rsquo;t expect much; the controls are rough and have/had some bugs but they mostly fixed the annoying stuff. Had to do some 1~2 month stalling but finally got myself to finish it.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/vns/akaiito/</guid>
+      <description>&lt;center&gt;&#xA;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://www.youtube.com/embed/_HWJykrNDvE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Title: アカイイト&lt;br/&gt;&#xA;Developer: Success&lt;br/&gt;&#xA;vndb: &lt;a href=&#34;https://vndb.org/v98&#34; target=&#34;_blank&#34;&gt;https://vndb.org/v98&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/center&gt;&#xA;&lt;p&gt;Akai ito is one of the most famous yuri VN released in the 00s, probably due to shortage more than anything, but also has some fame by its high quality writing and elaborated 伝奇 setting.&#xA;I went in and grabbed it when the PC port on Steam released a few months ago since I had it on my backlog since forever ago, but since it was PS2 exclusive having to emulate it and stuff pushed it to the bottom of the list. It&amp;rsquo;s nice they took the chance to bring it to modern platforms and for a cheap price made me jump on the bandwagon on release, the port is very basic though so don&amp;rsquo;t expect much; the controls are rough and have/had some bugs but they mostly fixed the annoying stuff. Had to do some 1~2 month stalling but finally got myself to finish it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

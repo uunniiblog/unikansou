@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kadokawa Sneaker on Unikansou</title>
-    <link>https://uunniiblog.github.io/unikansou/tags/kadokawa-sneaker/</link>
+    <link>http://localhost:1313/tags/kadokawa-sneaker/</link>
     <description>Recent content in Kadokawa Sneaker on Unikansou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2019 23:36:42 +0200</lastBuildDate>
-    <atom:link href="https://uunniiblog.github.io/unikansou/tags/kadokawa-sneaker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kadokawa-sneaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sugar Dark - シュガーダーク 埋められた闇と少女</title>
-      <link>https://uunniiblog.github.io/unikansou/posts/books/%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/sugardark/</link>
+      <link>http://localhost:1313/posts/books/%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/sugardark/</link>
       <pubDate>Sun, 11 Aug 2019 23:36:42 +0200</pubDate>
-      <guid>https://uunniiblog.github.io/unikansou/posts/books/%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/sugardark/</guid>
-      <description>&lt;center&gt;
-&lt;p&gt;&lt;img src=&#34;https://uunniiblog.github.io/unikansou/images/sugardark/1.jpg&#34; alt=&#34;&#34;&gt;
-&lt;em&gt;Title: シュガーダーク 埋められた闇と少女 &lt;br/&gt;
-Author: 新井 円侍 &lt;br/&gt;
-Label: 角川スニーカー文庫&lt;/em&gt;&lt;/p&gt;
-&lt;/center&gt;
-&lt;p&gt;Picked this up after I randomly saw a couple of people comparing it to Akiyama… And the comparasion isn’t too far strechted actually. The text is in 3rd person actually reminiscent of iriya and the fact that it is a hardcore セカイ系 work also helps to make the connection.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/books/%E8%A7%92%E5%B7%9D%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/sugardark/</guid>
+      <description>&lt;center&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/sugardark/1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;Title: シュガーダーク 埋められた闇と少女 &lt;br/&gt;&#xA;Author: 新井 円侍 &lt;br/&gt;&#xA;Label: 角川スニーカー文庫&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/center&gt;&#xA;&lt;p&gt;Picked this up after I randomly saw a couple of people comparing it to Akiyama… And the comparasion isn’t too far strechted actually. The text is in 3rd person actually reminiscent of iriya and the fact that it is a hardcore セカイ系 work also helps to make the connection.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
