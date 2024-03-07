@@ -27,7 +27,7 @@ The story gets really interesting from very early on, I do have some minors prob
 
 However where the game truly shines, especially in the second half, is the characters and what it does with them. It goes really hard into showcasing the concept of love, soul, life and the evil side of humanity, it goes more against humanity that some other similar stuff. It's kinda hard to define even what the protagonists even are but it doesn't matter, in some way it's that kind of story. Also it is probably the most romantic yuri commercial game that is out there, I don't care much about yuri itself, but as a romance it's really well done with some beautiful scenes and themes, great stuff.
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/sqtejv?quality=highest" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://www.youtube-nocookie.com/embed/33B9xSAFkT4?si=ZkWD3U5SDtI6OOEA" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
 </div>
 <em> <center> the real message of the game </center> </em> <br/>
 
