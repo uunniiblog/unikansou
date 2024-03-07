@@ -86,9 +86,9 @@
 <div id="slide-window">
     <ol id="slides-list">
         {{- with (.Get "dir") -}} 
-            {{- $files := readDir (print "/static/" .) }} 
+            {{- $files := readDir (print "/static/" .) }}
             {{- range $files -}} 
-                {{- $absoluteUrl := print ($.Get "dir") "/" .Name | absURL }}
+                {{- $absoluteUrl := printf "/unikansou/static/%s/%s" ($.Get "dir") .Name | absURL }}
                 <li class="slide" style="background-image:url({{ $absoluteUrl }});"></li>
             {{- end }} 
         {{- end }}

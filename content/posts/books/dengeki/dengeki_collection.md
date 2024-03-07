@@ -25,7 +25,7 @@ https://bookwalker.jp/series/4882/list/
 
 ## 1. 電撃コラボレーション 4月、それは――××××
 <center>
-<img src="/images/dengeki_collab/1.jpg" height="600px" />
+<img src="/unikansou/images/dengeki_collab/1.jpg" height="600px" />
 </center>
 
 The first in the list of the Dengeki collabs in the ebook compilation, originally released on 10 April of 2009. As you can guess by the name it revolves around Spring with all of the stories taking place around April, some of them have more spring related themes with sakura trees, a few others have basically no relation to it other than a background mention. Curiously all of the stories also mention the word ぷよぷよ, I guess it was given as some sort of guideline, but most of the time is just a casual unimportant description. This one has the higher number of compilations with a lot of them being really short.
@@ -77,5 +77,5 @@ The last story of this book, there's a girl in the protagonist's class that has 
 
 ## 2. 電撃コラボレーション　MW号の悲劇〈前編〉
 <center>
-<img src="/images/dengeki_collab/2.jpg" height="600px" />
+<img src="/unikansou/images/dengeki_collab/2.jpg" height="600px" />
 </center>

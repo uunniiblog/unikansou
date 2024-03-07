@@ -9,7 +9,7 @@ images: "https://uunniiblog.github.io/unikansou/images/rigaya/rigaya1.jpg"
 
 <center>
 
-<img src="/images/rigaya/rigaya1.jpg" width="70%"/>
+<img src="/unikansou/images/rigaya/rigaya1.jpg" width="70%"/>
 
 *Title: 幽霊列車とこんぺい糖 新装版 <br/>
 Author: 木ノ歌 詠 <br/>

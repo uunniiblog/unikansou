@@ -8,7 +8,7 @@ tags: ["books","seikaisha"]
 
 <center>
 
-<img src="/images/fatalsis/1.jpg" width="70%"/>
+<img src="/unikansou/images/fatalsis/1.jpg" width="70%"/>
 
 *Title: 果てなき天のファタルシス <br/>
 Author: 十文字 青 <br/>

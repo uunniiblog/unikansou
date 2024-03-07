@@ -8,7 +8,7 @@ tags: ["vns","waffle"]
 
 <center>
 
-![](/images/imokano/0.png)
+![](/unikansou/images/imokano/0.png)
 
 *Title: 妹と彼女 それぞれの選択<br/>
 Developer: Waffle<br/>

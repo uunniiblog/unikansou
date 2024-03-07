@@ -8,7 +8,7 @@ tags: ["books","dengeki"]
 
 <center>
 
-<img src="/images/crisscross/1.jpg" width="70%"/>
+<img src="/unikansou/images/crisscross/1.jpg" width="70%"/>
 
 *Title: クリス・クロス 混沌の魔王 <br/>
 Author: 高畑京一郎著 <br/>
@@ -30,5 +30,6 @@ Overall I'd say that for someone reading it almost 30 years after release feels 
 
 I can only imagine that reading this back then would have been mind blowing so it's not hard to see why it has had such a long staying power and still can be seen in a lot of favorite LNs list. I'm not sure I'd go out of my way to recommend it to anyone now, moreso since it doesn't have a digital version available, but at least I'd say it's worth a read to any fan of the genre that wants a cool fast paced action filled story.
 
-
-<img src="/images/crisscross/2.jpg" width="70%"/>
+<center>
+<img src="/unikansou/images/crisscross/2.jpg" width="70%"/>
+</center>
