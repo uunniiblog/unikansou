@@ -1,10 +1,11 @@
-baseURL = 'https://uunniiblog.github.io/'
-#baseURL = 'http://localhost:1313'
+#baseURL = 'https://uunniiblog.github.io/unikansou/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Unikansou'
 theme = 'poison'
 hasCJKLanguage = 'true'
-canonifyURLs = true
+
+relativeURLs = true
 
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
