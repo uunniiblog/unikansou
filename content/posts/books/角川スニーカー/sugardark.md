@@ -8,7 +8,7 @@ tags: ["books","Kadokawa Sneaker"]
 
 <center>
 
-![](/images/sugardark/1.jpg)
+![](/unikansou/images/sugardark/1.jpg)
 *Title: シュガーダーク 埋められた闇と少女 <br/>
 Author: 新井 円侍 <br/>
 Label: 角川スニーカー文庫*

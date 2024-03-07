@@ -8,7 +8,7 @@ tags: ["books","dengeki"]
 
 <center>
 
-![](/images/tabinideyou/1.jpg)
+![](/unikansou/images/tabinideyou/1.jpg)
 *Title: 旅に出よう、滅びゆく世界の果てまで <br/>
 Author: 萬屋 直人 <br/>
 Label: 電撃文庫*

@@ -6,7 +6,7 @@ tags: ["jrpg","furyu"]
 
 ---
 
-![](/images/crymachina/0.jpg)
+![](/unikansou/images/crymachina/0.jpg)
 
 <center>
 
@@ -21,7 +21,7 @@ This game really catched my interest since it was revealed from the premise, the
 
 The story revolves about Leben being resurrected into a ship 2000 years into the future as some sort of machine. She's explained at the start that she's the chosen one and this ship was built by the last humans before extinction. The ship is controlled by some sort of 8 AI robots with the ultimate objective of resurrecting a real human to bring humanity back since they were wiped out by a misterious disease. As one can imagine the current state of the ship isn't very good with some sort of war going between all the robots, and basically nothing is as obvious as it seems.
 
-![](/images/crymachina/1.jpg)
+![](/unikansou/images/crymachina/1.jpg)
 
 The story gets really interesting from very early on, I do have some minors problems how some things seem kind of too convenient to advance the plot at times but nothing more than a minor complaint. The setting is also kind of complex and there are lots of things that went over my head, I'd probably have to replay with all the knowledge from some of the twists to fully grasp what's going on in detail. But it does leave some impression that some things don't have much logic and all just there to move the plot where they want, although the story stays interesting so it doesn't get in the way that much.
 
@@ -35,6 +35,6 @@ So yes from a story perspective the game exceeds grealy, coming from Crystar it 
 
 The good side is that it isn't nearly as obnoxious to play as Crystar which in a way is a form of fixing the problem it had. As for OST imo it's even better than Crystar, it's really unique with great atmosphere and a lot of standing out tracks to listen. The art is also a step up looks nicely too, obviously graphically isn't that strong but the designs make up for it and excusing some cuts in cinematics where they could have showed more action it is generally serviceable enough.
 
-![](/images/crymachina/2.jpg)
+![](/unikansou/images/crymachina/2.jpg)
 
 Like Crystar it's the kind of game where it has heavy pros and cons, if you can get past its problems and it clicks with you it will be an amazing experience because what it does good its really good, you just need to get past its annoying parts, luckily Crymachina is way less annoying in this aspect so it's much more easy to recommend. I doubt it will get much fame as the next big JRPG or w/e, but at least it's a wortwhile experience if the concept clicks with you or you like yuri, It's a satisfying short game with great focus on its virtues that ramps up a lot ending up as a very fulfilling experience.

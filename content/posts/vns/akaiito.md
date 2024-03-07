@@ -23,7 +23,7 @@ I went in and grabbed it when the PC port on Steam released a few months ago sin
 
 The plot revolves around Kei who recently lost his mother and decided to visit the inaka house where she used to live with his parents 10 years ago, once she gets there she starts getting involved in some mysterious occult stuff with some twins vampires trying to suck her blood to release a powerful demon or something along those lines.
 
-![](/images/akaiito/1.png)
+![](/unikansou/images/akaiito/1.png)
 
 I was kinda excited for this since mysterious 伝奇 stuff is one of my favorites genres in VNs/eroge in general, and well the history for the most part delivers, the text itself is also very solid. Basically for the duration of the first route I was very into it and I was having a blast, my main problems with the story came after it, well more than with the story, it'd probably be more appropiate to say with the way it's presented.
 
@@ -36,6 +36,6 @@ Going back to the routes and pacing, the routes themselves are only like 3 or 4 
 
 Now after the first 3 routes you get to Yumei's which is the "True" route I guess (it is recommended to do it as 4th, which unlocks Nozomi's route as 5th). It kinda has the same problems the other routes but at least it finally gives full hindsight into the entire plot and the latter parts of it are also pretty good, probably the highlight of the game, definetly would recommend to not give up on the game before doing it. And like I said the 5th route for Nozomi is more of an extra flashback to understand her character, kinda weird after seeing her being evil for the entire game but it doesn't hurt.
 
-![](/images/akaiito/2.png)
+![](/unikansou/images/akaiito/2.png)
 
 So I'm not the biggest fan of the game but it also happens to have two of the few things that actually annoys me so it's kind of unfortunate, if you don't mind that stuff I've mentioned then I'd recommend the game, maybe because I've played through it recently too but it reminds me of Suigetsu with similar setting and genres. At the end I kind of feel both of them try to do something similar to Tsukihime but with different writing styles and unfortunately none of the two are nearly as good.

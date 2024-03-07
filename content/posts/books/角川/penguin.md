@@ -8,7 +8,7 @@ tags: ["books","Kadokawa Bunko"]
 
 <center>
 
-![](/images/penguinhighway/1.png)
+![](/unikansou/images/penguinhighway/1.png)
 
 *Title: ペンギン・ハイウェイ <br/>
 Author: 森見 登美彦 <br/>
@@ -23,7 +23,7 @@ Usually when I see that the protagonist is a kid before I start some work I kind
 
 The narration told from the pov of Aoyama manages to be very lively and interesting, it shows both his desire for learning and how conceited he is about it, he’s enthrilled by the young woman who runs the dentist clinic he frenquently visits and with who he often talks or plays chess. She gives off a mysterious and charming aura to him, she’s pretty much what I’d consider his first love. The text is obviously written taking into account that it’s narrated from 4th grader but isn’t dumbed down or anything, it’s easy to read and does a good job at grabbing you in thanks to being able to convey the protagonist’s thought process to the reader.
 
-![](/images/penguinhighway/2.png)
+![](/unikansou/images/penguinhighway/2.png)
 
 Aoyama’s thoughs while watching her sleep.
 
@@ -33,7 +33,7 @@ The second aspect I really liked are the feelings Aoyama has about her dentist, 
 
 Morimi does a great job at entwine both those two aspects, the SF elements and the enthrilling feels he holds for her together in the plot making her into a great enigmatic and charismatic characer. Some cool details like never actually giving her name are also fitting plotwise.
 
-![](/images/penguinhighway/3.png)
+![](/unikansou/images/penguinhighway/3.png)
 
 Aoyama’s notes about the investigation.
 

@@ -8,7 +8,7 @@ tags: ["books","dengeki"]
 
 <center>
 
-![](/images/kuroganecomu/1.jpg)
+![](/unikansou/images/kuroganecomu/1.jpg)
 *Title: 鉄コミュニケイション <br/>
 Author: 秋山瑞人 <br/>
 Label: 電撃文庫*
@@ -23,11 +23,11 @@ Kurogane Communication was pitched as some kind of media mix project that releas
 The main protagonist of the story is Haruka a 13 years old girl who is woken up from a cryonic sleep by 5 robots to a world where humanity has been wiped out after a war that took place 30 years ago, now only robots are left on Earth. Haruka starts living with the 5 robots in the ruins of the city the most normal life possible where they take care of raising and protecting her.
 Haruka is a very proactive teeneage girl that doesn't seem to fear anything so she often goes exploring in secret behind other's back, one day she decides to go in the tunnels and finds a mysterious dog that seems aggresive but she saves the situation giving him some food, at the end he runs away, so Haruka chases him until he randomly meets with another girl that looks exactly the same that her, face, hair, age, height. They both get very confused but after a moment that girl also escapes leaving Haruka standing still in shock.
 
-![](/images/kuroganecomu/2.jpg)
+![](/unikansou/images/kuroganecomu/2.jpg)
 
 Haruka loves her new family of robots but not everything has been easy since she woke up, she started writing a diary as a recommendation from Cleric, usually at the start of every chapter there is a diary entry where we get more input into her inner thoughts, those are interesting because it's one of the few occasions that we can see Akiyama writing in first person (he's also godly at it). But after all she still misses having a normal friend so this meeting with this girl obbsesed her and started searching for her. This girl is called Eva and is actually also a robot that travels around the world with another one called Rook, casually they ended up in this town and also casually they started a relationship with Haruka and the others.
 
-![](/images/kuroganecomu/3.jpg)
+![](/unikansou/images/kuroganecomu/3.jpg)
 
 > あの気持ちは、絶対、誰にもわからないと思う。
 > ハルカになりたい、って思った。
