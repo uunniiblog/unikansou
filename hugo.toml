@@ -5,7 +5,6 @@ title = 'Unikansou'
 theme = 'poison'
 hasCJKLanguage = 'true'
 
-relativeURLs = true
 
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
