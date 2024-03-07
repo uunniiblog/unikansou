@@ -8,8 +8,8 @@ tags: ["books","dengeki"]
 
 <div style="display: flex; justify-content: center;">
 
-<img src="/images/houkagogakari/0.jpg" width="45%" style="margin-right: 5px;"/>
-<img src="/images/houkagogakari/1.jpg" width="45%" style="margin-left: 5px;"/>
+<img src="/unikansou/images/houkagogakari/0.jpg" width="45%" style="margin-right: 5px;"/>
+<img src="/unikansou/images/houkagogakari/1.jpg" width="45%" style="margin-left: 5px;"/>
 </div>
 
 <center>
@@ -27,7 +27,7 @@ Gakuto has been a writer I've been interested for a long time; I even have a set
 Now on to what this series is actually about, well, I'm still not too sure, which is both a bad and good thing. The plot revolves around kids in the latter stages of primary school, specifically 5th and 6th grade who are randomly chosen by some secret supernatural mechanism called as the novel, ほうかごがかり (Houkago Gakari), where every friday night they're teleported to an old style school where they're in charge of looking over a scary monster (無名不思議) and write a weekly report on it. It seems easy but with the passage of the weeks the monster becomes stronger and scarier, even appearing in real life (only they can see it ofc), gradually pushing the kids to the limit, and then when that happens they get killed. It sounds like a horror novel but it really isn't scary at all, the atmosphere feels dark and oppressive but more in a Bokurano kind of way. So far every main chapter of around 100 pages is about a different kid, with the first one being the main protagonist (Kei in the pic).
 
 <center>
-    <img src="/images/houkagogakari/2.jpg" alt="Image Description" width="70%">
+    <img src="/unikansou/images/houkagogakari/2.jpg" alt="Image Description" width="70%">
 </center>
 
 
