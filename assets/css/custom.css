@@ -1,3 +1,5 @@
+/* Empty css file that users can override in their own /assets/css/custom.css file */
+
 .inline-spoiler {
   position: relative;
   display: inline-block;
