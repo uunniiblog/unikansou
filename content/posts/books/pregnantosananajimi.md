@@ -1,5 +1,5 @@
 ---
-title: "Half Boiled Wonder Girl - 海辺の病院で彼女と話した幾つかのこと"
+title: "Half Boiled Wonder Girl - ハーフボイルド・ワンダーガール"
 date: 2024-06-25T00:36:42+02:00
 draft: false
 tags: ["books", "ichijinsha"]
