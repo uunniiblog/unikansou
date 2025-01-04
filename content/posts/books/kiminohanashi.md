@@ -11,7 +11,7 @@ tags: ["books", "hayakawa"]
 <img src="/unikansou/images/kiminohanashi/0.jpg" width="70%"/>
 
 *Title: 君の話 <br/>
-Author: 三秋 縋 <br/>*
+Author: 三秋縋 <br/>*
 
 </center>
 
