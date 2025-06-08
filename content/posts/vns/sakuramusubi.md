@@ -1,8 +1,9 @@
 ---
 title: "Sakura Musubi - さくらむすび"
 date: 2025-06-08T00:30:42+02:00
+image: "/unikansou/images/sakuramusubi/4.png" 
 draft: false
-tags: ["vns"]
+tags: ["vns", "CUFFS"]
 
 ---
 
@@ -11,7 +12,7 @@ tags: ["vns"]
 {{< youtube 86MVpbFnFMc >}}
 
 *Title: さくらむすび<br/>
-Developer: Cuffs<br/>
+Developer: CUFFS<br/>
 vndb: https://vndb.org/v1466*
 
 </center>
